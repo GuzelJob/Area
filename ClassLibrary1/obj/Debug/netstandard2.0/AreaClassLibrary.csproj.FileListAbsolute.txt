@@ -1,0 +1,8 @@
+C:\Users\g.rakhmatullina\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\AreaClassLibrary.deps.json
+C:\Users\g.rakhmatullina\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\AreaClassLibrary.dll
+C:\Users\g.rakhmatullina\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\AreaClassLibrary.pdb
+C:\Users\g.rakhmatullina\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\AreaClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\g.rakhmatullina\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\AreaClassLibrary.AssemblyInfoInputs.cache
+C:\Users\g.rakhmatullina\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\AreaClassLibrary.AssemblyInfo.cs
+C:\Users\g.rakhmatullina\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\AreaClassLibrary.dll
+C:\Users\g.rakhmatullina\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\AreaClassLibrary.pdb
